@@ -83,3 +83,4 @@ No environment variables required. The app uses free public APIs:
 ## License
 
 MIT — Free to use, modify, and deploy.
+Testing Pair Extraordinaire Badge
